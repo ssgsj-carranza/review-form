@@ -89,3 +89,7 @@ export default function Form() {
 }
 
 
+//npm install -D tailwindcss
+//npx tailwindcss init
+//npm install -D tailwindcss postcss autoprefixer
+//npm install -D prettier prettier-plugin-tailwindcss
